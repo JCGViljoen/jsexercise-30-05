@@ -40,5 +40,12 @@ let person8 = {
     age: '30'
 }
 
+displayElement.innerHTML = `
+<tr>
+<td>${person1.name}</td>
+<td></td>
+<td></td>
 
+</tr>
+`
   
